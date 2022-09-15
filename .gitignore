@@ -1,0 +1,6 @@
+/volumes/html
+/volumes/database
+/volumes/nginx/logs/*
+/nginx/logs/*
+/mysql/slow/*
+.env
